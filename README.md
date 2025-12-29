@@ -1,6 +1,6 @@
 
 Hi 👋, I'm Amit Kumar  
-A Software Development Engineer from India 🇮🇳
+A passionate Software Development Engineer from India.
 
 ---
 
