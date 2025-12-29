@@ -1,5 +1,17 @@
 
-Hi 👋 I'm Amit Kumar<br><br>Software Development Engineer (SDE-1) focused on building scalable, high-performance web applications.<br>I work primarily with the MERN stack and enjoy turning complex problems into clean, efficient solutions.<br><br>🔹 Strong foundation in Data Structures & Algorithms (800+ problems solved)<br>🔹 Experience building full-stack and AI-powered products<br>🔹 Passionate about backend systems, performance optimization, and clean architecture<br><br>Currently improving my skills in system design, backend scalability, and real-world engineering problems.<br>Open to SDE-1 / Full Stack / Backend opportunities.<br>
+Hi 👋, I'm Amit Kumar  
+A Software Development Engineer from India 🇮🇳
+
+---
+
+🎓 **B.Tech | IIT Roorkee**  
+💻 **SDE-1 | Full Stack Developer (MERN)**  
+🤖 Experience building AI-powered and data-driven web applications  
+⚙️ Skilled in designing scalable REST APIs and performance-optimized frontends  
+📈 Strong foundation in DSA, DBMS, OOP, Operating Systems, and System Design  
+🚀 Always learning, building, and improving real-world engineering skills  
+
+---
 
 
 ## 🌐 Socials:
