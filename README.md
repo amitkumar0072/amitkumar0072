@@ -1,5 +1,5 @@
 
-<h1>Hi 👋, I'm Amit Kumar  </h1>
+<h2>Hi 👋, I'm Amit Kumar  </h2>
 <h2>A passionate Software Development Engineer from India.</h2>
 
 ---
