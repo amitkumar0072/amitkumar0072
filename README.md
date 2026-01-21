@@ -1,16 +1,16 @@
 
-<h1>Hi 👋, I'm Amit Kumar  
-A passionate Software Development Engineer from India.</h1>
+<h1>Hi 👋, I'm Amit Kumar  </h1>
+<h2>A passionate Software Development Engineer from India.</h2>
 
 ---
-<h2>
+
 🎓 **B.Tech | IIT Roorkee**  
 💻 **SDE-1 | Full Stack Developer (MERN)**  
 🤖 Experience building AI-powered and data-driven web applications  
 ⚙️ Skilled in designing scalable REST APIs and performance-optimized frontends  
 📈 Strong foundation in DSA, DBMS, OOP, Operating Systems, and System Design  
 🚀 Always learning, building, and improving real-world engineering skills  
-</h2>
+
 ---
 
 
